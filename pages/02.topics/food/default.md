@@ -1,19 +1,17 @@
-# dsrp.eu – Food 
-_Total 1430w_
-*100w*  
+---
+title: Food
+---
 
-By 2020, 80 percent of the population of Europe's 500 million people will be living in urban environments. Four times more people will be living in dense cities, towns and suburbs than 70 years ago [1](1). In spite of recent promotion of urban and vertical farming techniques, only very few could pride themselves with being food secure in case of #collapse. 
+By 2020, 80 percent of the population of Europe's 500 million people will be living in urban environments. Four times more people will be living in dense cities, towns and suburbs than 70 years ago [1](1). In spite of recent promotion of urban and vertical farming techniques, only very few could pride themselves with being food secure in case of #collapse.
+> Collapse of what?
 
-This sobering realization begs for the question *how can we create sustainable and environmentally regenerative food production and consumption systems* which are able to withstand these pressure with grace?
+This sobering realization begs the question: "How could we imagine sustainable and environmentally regenerative food production and consumption systems which are able to withstand these pressure with grace?"
 
-dsrp's recipe for re-building the necessary infrastructure requires consideration of three central pillars: *Distribution*, *Production* and *Consumption* outlined below. 
+This article will explore potential answers to this question, outlined around *Distribution*, *Production* and *Consumption*. 
 
 ## Distribution
 
 ### Why SMART Cities are _not_ smart enough
-
-_218w_  
-
 Aquaponics, vertical farming and even large-scale indoor farms have been proposed as solutions to increase the resilience of food systems for the SMART cities of the future. These _pioneering projects in urban farming are well-suited for densely populated countries_, such as the Netherlands (where predominantly rural areas make up only 2.1% of its land). (reference). 
 
 Nevertheless, even if these technologies were to be replicated and used at scale, they would likely be insufficient to be able to cover all the dietary needs of Europe's urban population. Some staple crops, such as grains, require extensive land surfaces to grow. Most importantly though, *we should ask ourselves the question whether growing food in scarce urban land, in highly artificial, energy-intensive environments the most efficient way to obtain nourshiment?* 
