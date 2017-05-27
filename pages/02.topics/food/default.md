@@ -13,37 +13,38 @@ This article will explore potential answers to this question, outlined around *D
 
 ### Why SMART Cities are _not_ smart enough
 Aquaponics, vertical farming and even large-scale indoor farms have been proposed as solutions to increase the resilience of food systems for the SMART cities of the future. These _pioneering projects in urban farming are well-suited for densely populated countries_, such as the Netherlands (where predominantly rural areas make up only 2.1% of its land). (reference). 
+>  What are SMART cities and why is it capitalized? Is it a proper name? If so: reference.
 
-Nevertheless, even if these technologies were to be replicated and used at scale, they would likely be insufficient to be able to cover all the dietary needs of Europe's urban population. Some staple crops, such as grains, require extensive land surfaces to grow. Most importantly though, *we should ask ourselves the question whether growing food in scarce urban land, in highly artificial, energy-intensive environments the most efficient way to obtain nourshiment?* 
+Nevertheless, even if these technologies were to be replicated and used at scale, they would likely be insufficient to be able to cover all the dietary needs of Europe's urban population. Some staple crops, such as grains, require extensive land surfaces to grow. Most importantly though, *we should ask ourselves the question whether growing food in scarce urban land, in highly artificial, energy-intensive environments is the most efficient way to obtain nourshiment.* 
 
-Consider this: The only upper limit to agricultural production is the sun. Choosing to lose 80% efficiency by first converting it to electricity before using it to grow food, should only be a matter of absolute necessity and not a fundamental principle of SMART food production. 
+Consider that agricultural production is, essentially, limited by the sun's energy. Choosing to lose 80% efficiency by first converting it to electricity before using it to grow food, should only be a matter of absolute necessity and not a fundamental principle of SMART food production. 
 <*questionable/ might need rephrasing: it is not the availability of sun energy which might be the reason to want controlled aquaponics environments - it's likely going to be its lack of balance between sun and watering- manifested through droughts etc*>
+> It's 40% (PV efficiency, upper limit) times 40% (LED efficiency, upper limit). There's caveats though; plant energy conversion is also not 100% and growing LED's are specifically coupled to the absorption spectrum of plants.
 
 ### Reviving regional food networks 
-
-_256w_  
-
-_dsrp's proposition for increasing resilience in food systems is the strengthening of Europe's regional food networks_ - based on peri-urban supply chains, cooperatives and Community Supported Agriculture (CSA). 
+One way to increase resilience in food systems is the strengthening of Europe's regional food networks_ - based on peri-urban supply chains, cooperatives and Community Supported Agriculture (CSA). 
 
 This is not a new vision, of course. Farmer Cooperatives have been around ever since the 19th century in both commercial and more community-based forms, and the network of CSA is Europe has expanded to over 13 EU countries since the 1990s. Although with some fluctuation, the movement is growing, with farmer markets witnessing a in recent years (Reference??). 
+> A what?
 
-Considering the fact that 42% of Europe's population is concentrated in 10% of the land [1], strengthening the infrastructure of _farmer and consumer cooperatives_ and _Community Supported Agriculture_ is crucial for authentic food security in Europe in case of #collapse. These two solutions can give access for consumers to high quality organic food through pre-financing agreements with nearby farmer cooperatives, or through weekly food baskets subscriptions (Reference). The payoff of investments in regional food production infrastructure assures that peri-urban, rural farmers and the most vulnerable social groups can farmers stay in business and integrated in the local economy (Reference -i.e. ASAT, AFF in Romania). Last but not least, it gives direct control to both farmers and consumers over how food is produced. 
+Considering the fact that 42% of Europe's population is concentrated in 10% of the land [1], strengthening the infrastructure of _farmer and consumer cooperatives_ and _Community Supported Agriculture_ is crucial for authentic food security in Europe in case of #collapse. These two solutions can give access for consumers to high quality organic food through pre-financing agreements with nearby farmer cooperatives, or through weekly food baskets subscriptions (Reference). The payoff of investments in regional food production infrastructure assures that peri-urban, rural farmers and the most vulnerable social groups can farmers stay in business and integrated in the local economy (Reference -i.e. ASAT, AFF in Romania). Last but not least, it gives direct control to both farmers and consumers over how food is produced.
+> Fix " most vulnerable social groups can farmers stay in business"
+> How does this give direct control to farmers? I'm not so sure.
 
-_New open-source information technology software for cooperatives_ can now ease the administrative burden of coops, coordinating sourcing and distribution from multiple farms to hundreds of consumers (Reference). The idea is to _re-create shorter alternative supply chains, outside of the conventional supermarket system - ones increasingly based on trust, without the need for intermediaries and costly certification schemes. _.
+_New open-source information technology software for cooperatives_ can now ease the administrative burden of coops, coordinating sourcing and distribution from multiple farms to hundreds of consumers (Reference). The idea is to _re-create shorter alternative supply chains, outside of the conventional supermarket retail system - ones increasingly based on trust, without the need for intermediaries, profit extraction or extensive institutional and administrative certification proceses. _.
 
 These new upgraded cooperative models can help create a positive loop towards more resilience for people, economies and most importantly for our soils and biodiversity. 
 
 And the good news is ... there are many interesting initiatives already starting all over Europe! We'll be happy to share some replicable examples through our dsrp blog. 
+> Let's give some examples instead of promising them in the future. It's just one search in the hackpad or on Google away.
 
 ## Production 
 
 ### Regenerative Agriculture - the self-enforcing loop of resilience
 
-_208w_  
-
 Intensive agriculture and conventional farming models have resulted in 30%–85% of EU agricultural land being affected by soil degradation. Productivity gains for major crops have consequently starting to decline around the world. The annual cost of soil degradation in Europe amounts to €38 billion [2](xx). 
 
-Regional and community-owned food production and distribution systems offer an opportunity for scaling up _regenerative forms of agriculture, which aim to obtain surpluses for humans, only_ after  _having satisfied the ecological needs of building healthy soil and increasing biodiversity_ [2](x). Regenerative agriculture practices include permaculture, agro-forestry, organic, no till, holistic grazing or a combination thereof. These make use of nature's own symbiotic mechanisms to produce both food and maintain healthy ecosystems [3].  
+Regional and community-owned food production and distribution systems offer an opportunity for scaling up _regenerative forms of agriculture, which aim to obtain surpluses for humans, only_ after  _having satisfied the ecological needs of building healthy soil and increasing biodiversity_ [2](x). Regenerative agriculture practices include permaculture, agro-forestry, organic, no till, holistic grazing or a combination thereof. These make use of natural synergies in ecosystems to facilitate regenerate and increase both the health of these systems and their yields.[3].  
 
 _Nurturing soil and increasing biodiversity are key elements in creating a positive self-enforcing feedback loop in agricultural ecosystems_. The healthier the soil and the greater the variety of species which can interact and synergize in agricultural systems, the more yields can be obtained in coming years with less external input (Reference). Healthy soils are a very important building block on the way back to a resilient and economically prosperous food system - one able to withstand shocks in the face of potential #collapse scenarios. 
 
