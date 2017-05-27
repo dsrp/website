@@ -12,3 +12,5 @@ As we're still working on it, the content and site may be intermittently availab
 * Economy
 * Food
 * Construction
+
+Test "quotes".
