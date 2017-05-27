@@ -7,4 +7,8 @@ Welcome to the development version of the (new) website for the Decentralized So
 
 As we're still working on it, the content and site may be intermittently available. Don't worry, we're on it!
 
-> Test update
+## Main topics
+* Collapse
+* Economy
+* Food
+* Construction
