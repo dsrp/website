@@ -13,4 +13,4 @@ As we're still working on it, the content and site may be intermittently availab
 * Food
 * Construction
 
-Test "quotes".
+Test "quotes". Test [external link](http://www.google.com).
